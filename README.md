@@ -2,7 +2,8 @@
 - 👀 I’m interested in learn coding
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me send me email to alitwarsono@yahoo.com
+- 📫 How to reach me send me email to alitwarsono@yahoo.com or visited sampaikanlah.com
+- 
 
 <!---
 H4mb44ll4h/H4mb44ll4h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
